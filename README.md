@@ -12,7 +12,7 @@ The present Password Generator application will ask the User to confirm if they 
 
 ## Link to Password Generator
 
-This is the link to the [Password Generator]()
+This is the link to the [Password Generator](https://cdrcar.github.io/challenge03-Password-Generator/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

@@ -1,9 +1,9 @@
 // Assignment Code - VARIABLES
 var generateBtn = document.querySelector("#generate");
-var uppercaseChar = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var lowercaseChar = "abcdefghijklmnopqrstuvwxyz";
+var uppercaseChar = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var numberChar = "0123456789";
-var specialChar = "!@#$%^&*()_-+={}[];:'`~<,>.?/|"
+var specialChar = ";:'`~<,>.?/|!@#$%^&*()_-+={}[]"
 var passwordLength;
 var uppercaseCheck;
 var numberCheck;
