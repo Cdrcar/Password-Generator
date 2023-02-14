@@ -15,4 +15,4 @@ The present Password Generator application will ask the User to confirm if they 
 [Password Generator]()
 
 ## License
-[MIT]((https://choosealicense.com/licenses/mit/))
+[MIT](https://choosealicense.com/licenses/mit/)
