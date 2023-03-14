@@ -11,9 +11,11 @@ body,
   margin: 0;
   padding: 0;
 }
-
+textarea{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 body {
-  font-family: sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   background-color: #f9fbfd;
 }
 
@@ -27,12 +29,14 @@ header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
-  color: hsl(206, 17%, 28%);
+  color: hsl(205, 32%, 13%);
+  font-weight: bold;
+  font-size: larger;
 }
 
 .card {
   background-color: hsl(0, 0%, 100%);
-  border-radius: 5px;
+  border-radius: 10px;
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
   color: hsl(206, 17%, 28%);
@@ -40,14 +44,15 @@ header {
   margin: 0 auto;
   max-width: 800px;
   padding: 30px 40px;
+  text-align: center;
 }
 
 .card-header::after {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
-  height: 2px;
+  background: rgba(244, 244, 19, 0.847);
+  height: 6px;
 }
 
 .card-body {
@@ -74,7 +79,7 @@ header {
 
 .btn {
   border: none;
-  background-color: hsl(360, 91%, 36%);
+  background-color: rgb(90, 189, 178);
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
     0px;
