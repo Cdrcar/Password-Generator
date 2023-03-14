@@ -8,7 +8,7 @@ The present Password Generator application will ask the User to confirm if they 
 - JavaScript
 
 ## Final Result
-![Password Generator application with a red button to "Generate Password](./Assets/03-javascript-homework-demo.png)
+![Password Generator application with a red button to "Generate Password](./Assets/password.png)
 
 ## Link to Password Generator
 
